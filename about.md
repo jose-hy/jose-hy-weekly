@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Jose, and I'm a CS Major in the OSSD class this semester. I also have two minors in Web Development and Integrated Design & Media (IDM). 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm interested in the tech industry, and also want to learn more about the healthcare industry as well. This is because I came into NYU as a Biochem major, then swapped over to CS in my second semester, so I still want to learn about the healthcare industry and how I can still contribute to that field through what I'm studying now.
