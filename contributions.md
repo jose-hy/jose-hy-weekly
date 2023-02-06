@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 5  | [1st contribution!](https://www.openstreetmap.org/changeset/132134444)    | OpenStreet Map feature   |   Moved bus stop location to new spot and changed its name.    |
 |     |     |     |      |
 |     |     |     |      |
